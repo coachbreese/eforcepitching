@@ -9,8 +9,8 @@ window.TEAM = {
   initials: "EF",
   logo: "icons/logo.png",
 
-  coachName: "Coach Breese",
-  coachEmail: "coachjbreese@gmail.com",
+  coachName: "Coach Kelly",
+  coachEmail: "parker@eforcesports.com",
 
   primary: "#00549A",
   accent: "#D9323A",
